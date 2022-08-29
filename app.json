@@ -8,7 +8,7 @@
         "shortner"
     ],
     "repository": "https://github.com/Krishna-Singhal/Bitly-Bot",
-    "website": "https://telegram.dog/ks_projects",
+    "website": "www.google.com",
     "env": {
         "APP_ID": {
             "description": "Get this value from my.telegram.org!"
